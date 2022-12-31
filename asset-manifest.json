@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44532c06.css",
+    "main.js": "/static/js/main.bd395867.js",
+    "static/media/ChessSet.jpg": "/static/media/ChessSet.1a3a332a4308470a62f8.jpg",
+    "static/media/icons8-instagram.svg": "/static/media/icons8-instagram.d1535ece317ce0bd8311eacc3b288f32.svg",
+    "static/media/icons8-linkedin-circled.svg": "/static/media/icons8-linkedin-circled.1a0227c9fea9b7e0b5189b87e7261669.svg",
+    "static/media/search_ck2mibveuife.svg": "/static/media/search_ck2mibveuife.0c2d5cabfcc0b3f99b753f0d1ffb70d9.svg",
+    "static/media/icons8-twitter.svg": "/static/media/icons8-twitter.3eda92c55d0d8bc70226b03d27a82790.svg",
+    "index.html": "/index.html",
+    "static/media/speaker_4xjhrgiex55n.svg": "/static/media/speaker_4xjhrgiex55n.f2d83b52bdde00885803d1a9148bfd33.svg",
+    "static/media/icons8-facebook.svg": "/static/media/icons8-facebook.eb44b942a19987da7bbf6b4fac823709.svg",
+    "static/media/menu_vpnpy0k6arb0.svg": "/static/media/menu_vpnpy0k6arb0.f53ce054cd85df412f3e1dd8cfc7d934.svg",
+    "main.44532c06.css.map": "/static/css/main.44532c06.css.map",
+    "main.bd395867.js.map": "/static/js/main.bd395867.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44532c06.css",
+    "static/js/main.bd395867.js"
+  ]
+}
